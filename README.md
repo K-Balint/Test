@@ -1,2 +1,3 @@
 # Test
-Ez a mondat az 'Elso' agbol van
+Ez a mondat az 'Elso' ágbol van
+Ez a mondat VSCodeból van
